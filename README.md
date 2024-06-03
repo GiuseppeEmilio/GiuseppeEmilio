@@ -1,0 +1,3 @@
+- me chamo giuseppe emilio
+- estou estudando na [ALURA](https://alura.com.br)
+- ESTOU DESENVOLVENDO JAVA SCRIPT
