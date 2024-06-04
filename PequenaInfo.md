@@ -1,9 +1,11 @@
 - me chamo giuseppe emilio
+- 
 - estou estudando na [ALURA](https://alura.com.br)
 - ESTOU DESENVOLVENDO JAVA SCRIPT
+- 
 - fique macio e feliz como esse bixinho rosinha ;3 e não pode passarm sem fazer carinho na cabeça
-![22 Sem Título (1)](https://github.com/GiuseppeEmilio/GiuseppeEmilio/assets/170947426/b1e9facb-3997-4fea-8361-138e59eaed89)
-pode entrar em contato comigo via
-A: meu N° de telefone (+55 17 99233-1086)
-B: meu email escolar (00001163812389sp@al.educacao.sp.gov.br)
-C: meu email pessoal (turboa000@gmail.com)
+- ![22 Sem Título (1)](https://github.com/GiuseppeEmilio/GiuseppeEmilio/assets/170947426/b1e9facb-3997-4fea-8361-138e59eaed89)
+- pode entrar em contato comigo via
+- A: meu N° de telefone (+55 17 99233-1086)
+- B: meu email escolar (00001163812389sp@al.educacao.sp.gov.br)
+- C: meu email pessoal (turboa000@gmail.com)
